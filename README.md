@@ -1,4 +1,4 @@
-# JSP - Testing
+# JSP - Testing-Scripts
 
 - JSP Session Handling
 - JSP Error page
